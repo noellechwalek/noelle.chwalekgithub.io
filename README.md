@@ -1,2 +1,2 @@
-# noelle.chwalekgithub.io
-LIS 351 Project 1
+# noellechwalek.github.io
+LIS 351: Lab Project 1
